@@ -157,3 +157,33 @@ header li a:hover {
   background-position: center center;
   background-size: cover;
 }
+
+.free-section-03 button {
+  color: #FFF;
+  background-color: #1DB954;
+  font-size: 15px;
+  border-radius: 500px;
+  padding: 20px 40px 20px;
+  transition: 1s;
+  cursor: pointer;
+}
+
+.free-section-03 button:hover {
+  background-color: #1ED760;
+}
+
+.free-section-03 .contents-main {
+  text-align: center;
+  margin: auto;
+  font-size: 20px;
+  line-height: 1.6;
+}
+
+.free-section-03 .contents-text {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.free-section-03 .contents-button {
+  padding-bottom: 30px;
+}
